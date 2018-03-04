@@ -14,9 +14,8 @@ Indices of components of VMWEs in sentences.
 
  - A format of instance id is [filename]_[sentence_id]:[token_indices].
      - Filename (e.g., wsj_1279)
-     - Sentence_id (0-origin)
-     - Token_indices
-     - Indices of components of a VMWE (1-origin)
+     - Sentence ID (0-origin)
+     - Token indices of components of a VMWE (1-origin)
 
 ### Dependency (ontonotes_wsj_00_24_masked.conll)
 - Stanford dependencies [2] of the Wall Street Journal portion of Ontonotes Release 5.0 (LDC2013T19).
