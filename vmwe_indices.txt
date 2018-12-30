@@ -162,10 +162,10 @@ let know	wsj_1131_52:23_25
 let know	wsj_2224_4:16_18
 fit the bill	wsj_1567_3:9_10_11
 take stock	wsj_2381_33:41_42
-fall in love	wsj_1327_22:11_12_13
-fall in love	wsj_0972_22:2_3_4
-fall in love	wsj_0819_7:31_32_33
-fall in love	wsj_2161_19:24_25_26
+fall in love with wsj_1327_22:11_12_13_14
+fall in love with	wsj_0972_22:2_3_4_5
+fall in love with wsj_0819_7:31_32_33_34
+fall in love with	wsj_2161_19:24_25_26_27
 move sideways	wsj_1102_13:9_10
 go to the polls	wsj_1137_0:22_23_24_25
 bury the hatchet	wsj_1724_7:10_11_12
@@ -5584,7 +5584,6 @@ settle down	wsj_1065_6:4_5
 fall apart	wsj_1065_12:20_21
 look at	wsj_1065_18:10_11
 ask for	wsj_1065_32:2_3
-work up	wsj_1065_34:9_10
 bring in	wsj_1065_48:6_7
 call on	wsj_1062_0:4_5
 step up	wsj_1062_6:5_6
